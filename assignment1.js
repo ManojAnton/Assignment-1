@@ -7,6 +7,8 @@
 *  Name: Manoj Anton Manorathan Student ID: 146165238 Date:18|01|2025
 ********************************************************************************/
 
+console.log("Hello World!"); 
+
 // Step 1: Define routes
 const serverVerbs = ["GET", "GET", "GET", "POST", "GET", "POST"];
 const serverPaths = ["/", "/about", "/contact", "/login", "/panel", "/logout"];
